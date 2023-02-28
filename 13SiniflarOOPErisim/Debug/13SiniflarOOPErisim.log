@@ -1,0 +1,4 @@
+﻿  13SiniflarOOPErisim.cpp
+C:\Users\maytemur\Documents\C++\BtkC++ProgramlamayaGirisOmerBektas\13SiniflarOOPErisim\13SiniflarOOPErisim.cpp(22,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\maytemur\Documents\C++\BtkC++ProgramlamayaGirisOmerBektas\13SiniflarOOPErisim\13SiniflarOOPErisim.cpp(27,1): warning C4305: '=': truncation from 'double' to 'float'
+  13SiniflarOOPErisim.vcxproj -> C:\Users\maytemur\Documents\C++\BtkC++ProgramlamayaGirisOmerBektas\BtkC++ProgramlamayaGiris\Debug\13SiniflarOOPErisim.exe
