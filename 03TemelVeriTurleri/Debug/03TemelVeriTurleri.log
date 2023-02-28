@@ -1,0 +1,9 @@
+﻿  03TemelVeriTurleri.cpp
+C:\Users\maytemur\Documents\C++\BtkC++ProgramlamayaGirisOmerBektas\03TemelVeriTurleri\03TemelVeriTurleri.cpp(29,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\maytemur\Documents\C++\BtkC++ProgramlamayaGirisOmerBektas\03TemelVeriTurleri\03TemelVeriTurleri.cpp(37,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\maytemur\Documents\C++\BtkC++ProgramlamayaGirisOmerBektas\03TemelVeriTurleri\03TemelVeriTurleri.cpp(100,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maytemur\Documents\C++\BtkC++ProgramlamayaGirisOmerBektas\03TemelVeriTurleri\03TemelVeriTurleri.cpp(112,22): warning C4305: '=': truncation from 'int' to 'unsigned short'
+C:\Users\maytemur\Documents\C++\BtkC++ProgramlamayaGirisOmerBektas\03TemelVeriTurleri\03TemelVeriTurleri.cpp(112,17): warning C4309: '=': truncation of constant value
+C:\Users\maytemur\Documents\C++\BtkC++ProgramlamayaGirisOmerBektas\03TemelVeriTurleri\03TemelVeriTurleri.cpp(115,22): warning C4305: '=': truncation from 'int' to 'unsigned short'
+C:\Users\maytemur\Documents\C++\BtkC++ProgramlamayaGirisOmerBektas\03TemelVeriTurleri\03TemelVeriTurleri.cpp(115,17): warning C4309: '=': truncation of constant value
+  03TemelVeriTurleri.vcxproj -> C:\Users\maytemur\Documents\C++\BtkC++ProgramlamayaGirisOmerBektas\BtkC++ProgramlamayaGiris\Debug\03TemelVeriTurleri.exe
